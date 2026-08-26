@@ -1,2 +1,2 @@
 # GitHub Actions Demo
-ITESO | Machine Learning Service Integration | Spring 2025
+ITESO | Machine Learning Service Integration | Fall 2026
